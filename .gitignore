@@ -1,3 +1,53 @@
-.ipynb_checkpoints/
-.csv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.db
+
+# Environment files
+.env
+.venv/
 venv/
+ENV/
+env/
+*.env
+
+# VS Code files
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Jupyter runtime
+*.pid
+*.log
+
+# Streamlit / Dash app cache
+.cache/
+.streamlit/
+
+# Pytest
+.pytest_cache/
+
+# Logs
+logs/
+*.log
+
+# Notebook output
+*.out
+*.bak
+
+# Ignore export files
+*.pdf
+*.png
+*.jpg
+*.jpeg
